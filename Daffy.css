@@ -1,0 +1,157 @@
+
+.HarryT
+{
+  
+  border-style: hidden;
+  margin-bottom: 45;
+  
+ 
+}
+
+.LukeS
+{
+  
+  border-style: hidden;
+  margin-bottom: 45;
+  
+  
+}
+
+
+.HarryP
+{
+ 
+  border-style: hidden;
+  margin-bottom: 45;
+ 
+
+}
+
+
+
+.GeorgeS
+{
+  
+  border-style: hidden;
+  margin-bottom: 45;
+ 
+}
+
+
+
+
+.DaffyD
+{
+  
+ border-style: hidden;
+ margin-bottom: 45;
+  
+ 
+}
+
+
+.GeorgeT
+{
+
+  border-style: hidden;
+  margin-bottom: 45;
+  
+}
+
+
+.CaptainA
+{
+
+ border-style: hidden;
+
+}
+
+.container2 {
+  display: block;
+  margin-top: 0;
+  background-color: #ADD8E6;
+  width: 200;
+  height: 750px;
+  float:  left;
+  
+}
+
+h5{
+    margin-top: 0;
+    padding:0;
+    font: 15px Arial, sans-serif;
+}
+
+h4{
+    margin:0;
+    padding:0;
+    font: 20px Arial, sans-serif;
+}
+
+h2{
+    color: #696969;
+    font: 30px Arial, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 50%; 
+}
+
+#name{
+  
+     margin-left: -40px;
+     margin-top: 100px;
+}
+
+#des{
+  
+     margin-left: -58px;
+     margin-top: 140px;
+}
+
+#email{
+  
+     margin-left: -130px;
+     margin-top: 220px;
+}
+
+#num{
+  
+     margin-left: -40px;
+     margin-top: 265px;
+}
+
+
+.upperLayer{
+  display: block;
+  background-color: #0099FF;
+  width: 1680px;
+  height: 500;
+  float: right;
+  
+}
+
+.bottomLayer{
+  display: block;
+  background-color: #E0FFFF;
+  width: 1680px;
+  height: 250;
+  float: right;
+  
+}
+
+ .photoDaffy {
+    height: 375; 
+    width: 375; 
+    border: 7px solid white;
+    border-radius: 50%;
+   position: absolute;
+   left: 50%;
+   top: 50%; 
+   margin-left: -150px;
+   margin-top: -375px;
+   }
+
+
+
+
+
